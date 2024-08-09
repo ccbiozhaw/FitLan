@@ -45,7 +45,7 @@ dependencies:
       - defusedxml==0.7.1
       - et-xmlfile==1.1.0
       - executing==2.0.1
-      - fair-esm==2.0.1
+      - fair-esm
       - fastjsonschema==2.18.1
       - filelock==3.13.1
       - fonttools==4.44.0
