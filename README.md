@@ -1,6 +1,6 @@
 ## This is the GitHub Repository for the publication: 
 
-# Enriching productive mutational paths accelerates enzyme evolution (to be published)
+# Enriching productive mutational paths accelerates enzyme evolution (https://doi.org/10.1038/s41589-024-01712-3)
 
 In this repository we provide both data and code that were used to calculate ddG values with PyRosetta, as well as to visualize the fitness landscape of shuffle-library variants.
 
@@ -31,3 +31,14 @@ Secondly, you can execute the ddg.ipynb notebook to calculate the ddG scores of 
 
 To enable fitness landscape plotting, you first have to generate ESM-2 embeddings and run the principal component analysis using make_embeddings.ipynb to generate the encoding of all variants.
 Afterwards, you can plot the fitness landscape as 3D surface using plot_3d_surface.ipynb.
+
+# References
+This code originates from the following publication:
+
+https://doi.org/10.1038/s41589-024-01712-3
+
+If you utilize this code, please cite:
+
+https://doi.org/10.1038/s41589-024-01712-3
+
+https://doi.org/10.1016/j.csbj.2023.09.013
