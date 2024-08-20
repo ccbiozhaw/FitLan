@@ -1,6 +1,6 @@
 ## This is the GitHub Repository for the publication: 
 
-# Enriching productive mutational paths accelerates enzyme evolution (https://doi.org/10.1038/s41589-024-01712-3)
+# Enriching productive mutational paths accelerates enzyme evolution
 
 In this repository we provide both data and code that were used to calculate ddG values with PyRosetta, as well as to visualize the fitness landscape of shuffle-library variants.
 
